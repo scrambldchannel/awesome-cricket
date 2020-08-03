@@ -1,8 +1,6 @@
 # Awesome Cricket [![Awesome][awesome-badge]][awesome-link]
 
-> A curated list of awesome examples :tada:
-
-Cricket links for Geeks
+> A curated list of awesome links for cricket geeks
 
 ## Table of Contents
 
