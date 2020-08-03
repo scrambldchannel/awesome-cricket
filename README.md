@@ -12,7 +12,7 @@ A curated list of awesome links for cricket geeks
 
 - Websites
     - [Cricinfo](https://www.espncricinfo.com/) – News and detailed stats
-        - [Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html) - Analyse stats in your browser
+    - [Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html) - Analyse stats in your browser (part of Cricinfo)
 
 - Libraries
     - [python-espncricinfo](https://github.com/dwillis/python-espncricinfo) - Library for scraping data from Cricinfo 
@@ -21,9 +21,11 @@ A curated list of awesome links for cricket geeks
     - [Cricscore API](http://cricscore-api.appspot.com/) - API providing score information
     - [sportsradar](https://developer.sportradar.com/docs/read/cricket/Cricket_v2) - Extensive API to access ball by ball data
 
-
 - Visualisation
     - [Testing Tendulkar](https://github.com/saranshbarua/Testing-Tendulkar) - A slick dashboard made in React
+
+- Analysis
+    - [Analysis of IPL data](https://www.kaggle.com/josephgpinto/ipl-data-analysis) 
 
 ## Contribute
 
