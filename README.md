@@ -1,6 +1,6 @@
 # Awesome Cricket [![Awesome][awesome-badge]][awesome-link]
 
-> A curated list of awesome links for cricket geeks
+A curated list of awesome links for cricket geeks
 
 ## Table of Contents
 
