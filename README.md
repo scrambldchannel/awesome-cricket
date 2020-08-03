@@ -8,7 +8,6 @@ Cricket links for Geeks
 
 - [Links](#links)
 - [Contribute](#contribute)
-- [Credits](#credits)
 - [License](#license)
 
 ## Links
@@ -20,10 +19,6 @@ Cricket links for Geeks
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## Credits
-
-This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] :cookie:
 
 ## License
 
