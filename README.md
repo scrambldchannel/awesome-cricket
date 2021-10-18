@@ -13,6 +13,10 @@ A curated list of awesome links for cricket geeks
 - Websites
     - [Cricinfo](https://www.espncricinfo.com/) – News and detailed stats
     - [Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html) - Analyse stats in your browser (part of Cricinfo)
+    - [Cricsheet](https://cricsheet.org/) - A treasure trove of ball by ball stats on thousands of matches in several formats
+
+- Podcasts
+    - [Red Inker With Jarrod Kimber](https://anchor.fm/redinker) - Great podcast for in an depth and quirky analysis of cricket 
 
 - Libraries
     - [python-espncricinfo](https://github.com/dwillis/python-espncricinfo) - Library for scraping data from Cricinfo 
