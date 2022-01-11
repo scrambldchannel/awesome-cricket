@@ -16,20 +16,20 @@ A curated list of awesome links for cricket geeks
     - [Cricsheet](https://cricsheet.org/) - A treasure trove of ball by ball stats on thousands of matches in several formats
 
 - Podcasts
-    - [Red Inker With Jarrod Kimber](https://anchor.fm/redinker) - Great podcast for in an depth and quirky analysis of cricket
+    - [Red Inker With Jarrod Kimber](https://anchor.fm/redinker) - Great podcast for in depth and quirky analysis of cricket as well as regular Q&A sessions from a well known analyst and broadcaster
 
 - Libraries
     - [python-espncricinfo](https://github.com/dwillis/python-espncricinfo) - Library for scraping data from Cricinfo 
 
 - APIs
-    - [Cricscore API](http://cricscore-api.appspot.com/) - API providing score information
-    - [sportsradar](https://developer.sportradar.com/docs/read/cricket/Cricket_v2) - Extensive API to access ball by ball data
+
+    - [sportsradar](https://developer.sportradar.com/docs/read/cricket/Cricket_v2) - Premium service offering extensive API for access ball by ball data
 
 - Visualisation
-    - [Testing Tendulkar](https://github.com/saranshbarua/Testing-Tendulkar) - A slick dashboard made in React
+    - [Testing Tendulkar](https://github.com/saranshbarua/Testing-Tendulkar) - A slick dashboard made in React showing basic statistics for Sachin Tendulkar
 
 - Analysis
-    - [Analysis of IPL data](https://www.kaggle.com/josephgpinto/ipl-data-analysis) 
+    - [Analysis of IPL data](https://www.kaggle.com/josephgpinto/ipl-data-analysis) - Examples of how to analyze ball by ball data using R
 
 ## Contribute
 
