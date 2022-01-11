@@ -1,6 +1,6 @@
 # Awesome Cricket [![Awesome][awesome-badge]][awesome-link]
 
-A curated list of awesome links for cricket geeks
+A curated list of awesome links for cricket geeks. This is mostly focused on resources for analysts, developers and stats enthusiasts.
 
 ## Table of Contents
 
@@ -15,6 +15,9 @@ A curated list of awesome links for cricket geeks
         - [Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html) - Analyse stats in your browser
     - [Cricsheet](https://cricsheet.org/) - A treasure trove of ball by ball stats on thousands of matches in several formats
     - [Cricbuzz](https://www.cricbuzz.com/) - Another big site featuring live scores and articles
+
+- Blogs
+    - [Cricviz Analysis](https://www.cricviz.com/analysis/) - Insights and analysis about cricket from one of the leaders in cricket analytical services for broadcasters and teams.
 
 - Podcasts
     - [Red Inker With Jarrod Kimber](https://anchor.fm/redinker) - Great podcast for in depth and quirky analysis of cricket as well as regular Q&A sessions from a well known analyst and broadcaster
