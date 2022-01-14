@@ -1,6 +1,6 @@
 # Awesome Cricket [![Awesome][awesome-badge]][awesome-link]
 
-A curated list of awesome links for cricket geeks
+A curated list of awesome links for cricket geeks. This is mostly focused on resources for analysts, developers and stats enthusiasts.
 
 ## Table of Contents
 
@@ -10,13 +10,16 @@ A curated list of awesome links for cricket geeks
 
 ## Links
 
-- Websites
-    - [Cricinfo](https://www.espncricinfo.com/) – News and detailed stats
-    - [Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html) - Analyse stats in your browser (part of Cricinfo)
-    - [Cricsheet](https://cricsheet.org/) - A treasure trove of ball by ball stats on thousands of matches in several formats
+- General Websites
+    - [Cricinfo](https://www.espncricinfo.com/) – News, live coverage and detailed stats and journalism
+        - [Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html) - Analyse stats in your browser
+    - [Cricbuzz](https://www.cricbuzz.com/) - Another big site featuring live scores and articles
+
+- Blogs
+    - [Cricviz Analysis](https://www.cricviz.com/analysis/) - Insights and analysis about cricket from one of the leaders in cricket analytical services for broadcasters and teams.
 
 - Podcasts
-    - [Red Inker With Jarrod Kimber](https://anchor.fm/redinker) - Great podcast for in an depth and quirky analysis of cricket
+    - [Red Inker With Jarrod Kimber](https://anchor.fm/redinker) - Great podcast for in depth and quirky analysis of cricket as well as regular Q&A sessions from a well known analyst and broadcaster
 
 - Libraries
     - [python-espncricinfo](https://github.com/dwillis/python-espncricinfo) - Library for scraping data from Cricinfo 
@@ -26,13 +29,13 @@ A curated list of awesome links for cricket geeks
     - [sportsradar](https://developer.sportradar.com/docs/read/cricket/Cricket_v2) - Extensive API to access ball by ball data
     
 - Match Data
-	- [cricsheet](https://cricsheet.org/) - Ball-by-ball cricket match data in a variety of data formats
+    - [sportsradar](https://developer.sportradar.com/docs/read/cricket/Cricket_v2) - Premium service offering extensive API for access ball by ball data
 
 - Visualisation
-    - [Testing Tendulkar](https://github.com/saranshbarua/Testing-Tendulkar) - A slick dashboard made in React
+    - [Testing Tendulkar](https://github.com/saranshbarua/Testing-Tendulkar) - A slick dashboard made in React showing basic statistics for Sachin Tendulkar
 
 - Analysis
-    - [Analysis of IPL data](https://www.kaggle.com/josephgpinto/ipl-data-analysis) 
+    - [Analysis of IPL data](https://www.kaggle.com/josephgpinto/ipl-data-analysis) - Examples of how to analyze ball by ball data using R
 
 ## Contribute
 
