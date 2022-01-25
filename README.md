@@ -13,7 +13,6 @@ A curated list of awesome links for cricket geeks. This is mostly focused on res
 - General Websites
     - [Cricinfo](https://www.espncricinfo.com/) – News, live coverage and detailed stats and journalism
         - [Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html) - Analyse stats in your browser
-    - [Cricsheet](https://cricsheet.org/) - A treasure trove of ball by ball stats on thousands of matches in several formats
     - [Cricbuzz](https://www.cricbuzz.com/) - Another big site featuring live scores and articles
 
 - Blogs
@@ -26,6 +25,10 @@ A curated list of awesome links for cricket geeks. This is mostly focused on res
     - [python-espncricinfo](https://github.com/dwillis/python-espncricinfo) - Library for scraping data from Cricinfo 
 
 - APIs
+    - [Cricscore API](http://cricscore-api.appspot.com/) - API providing score information
+    - [sportsradar](https://developer.sportradar.com/docs/read/cricket/Cricket_v2) - Extensive API to access ball by ball data
+    
+- Match Data
     - [sportsradar](https://developer.sportradar.com/docs/read/cricket/Cricket_v2) - Premium service offering extensive API for access ball by ball data
 
 - Visualisation
